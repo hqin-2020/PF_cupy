@@ -12,6 +12,6 @@
 
 # Load Python modules
 module load python/booth/3.8/3.8.5
-module load cuda/11.7
+module load cuda/11.4
 
 srun python3 cupy_test.py  
